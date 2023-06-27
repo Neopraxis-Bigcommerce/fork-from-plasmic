@@ -26,7 +26,7 @@ export default function GlobalContextsProvider(
         commerceProviderComponentProps &&
         "accessToken" in commerceProviderComponentProps
           ? commerceProviderComponentProps.accessToken!
-          : ("zyty8y66wgnjhov3xko5neimm9waqu" as const)
+          : ("rxvy03kvd82x8r2cmci1zquoelofcx" as const)
       }
       channelId={
         commerceProviderComponentProps &&
@@ -38,31 +38,31 @@ export default function GlobalContextsProvider(
         commerceProviderComponentProps &&
         "clientId" in commerceProviderComponentProps
           ? commerceProviderComponentProps.clientId!
-          : ("ey4rzqfy84m696cprvxhnomaarvg0nm" as const)
+          : ("sklxsuit3pijq1cgsacl1713aj9uzjv" as const)
       }
       clientName={
         commerceProviderComponentProps &&
         "clientName" in commerceProviderComponentProps
           ? commerceProviderComponentProps.clientName!
-          : ("David" as const)
+          : ("Plasmic" as const)
       }
       clientSecret={
         commerceProviderComponentProps &&
         "clientSecret" in commerceProviderComponentProps
           ? commerceProviderComponentProps.clientSecret!
-          : ("9bc59dd1a232bce7d4be8db37ff91d2093bf6b8dcde7d91e4f69391284ed7fc7" as const)
+          : ("1a8147648a436753d7ac19601e02410797048e897c00034fa9c7d3e939e0749d" as const)
       }
       storeFrontApiToken={
         commerceProviderComponentProps &&
         "storeFrontApiToken" in commerceProviderComponentProps
           ? commerceProviderComponentProps.storeFrontApiToken!
-          : ("eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9.eyJjaWQiOjEsImNvcnMiOlsiaHR0cHM6Ly9kZXZlbG9wZXIuYmlnY29tbWVyY2UuY29tIl0sImVhdCI6MTY3NzY3MjU0MCwiaWF0IjoxNjc3NDk5NzQwLCJpc3MiOiJCQyIsInNpZCI6MTAwMjg1OTgxNSwic3ViIjoiYmNhcHAubGlua2VyZCIsInN1Yl90eXBlIjowLCJ0b2tlbl90eXBlIjoxfQ.vxQpvMzAftRHdF4lG1U0WlDjqjpISvcRvgWNeeAKX3aZb63RhTM6t4f-r2xykt1KHbnNjBC4NiZPUwqH8Nd0_Q" as const)
+          : ("eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9.eyJjaWQiOjEsImNvcnMiOlsiaHR0cHM6Ly9uZXh0YmFzZS1zYW5kYm94LTMubXliaWdjb21tZXJjZS5jb20iLCJodHRwczovL2NvZGVnZW4ucGxhc21pYy5hcHAiXSwiZWF0IjoxNzg3NzYyOTIzLCJpYXQiOjE2ODc3NzI3OTAsImlzcyI6IkJDIiwic2lkIjoxMDAyOTA2MzY2LCJzdWIiOiJza2x4c3VpdDNwaWpxMWNnc2FjbDE3MTNhajl1emp2Iiwic3ViX3R5cGUiOjIsInRva2VuX3R5cGUiOjF9.LxSQZqRpIcBBjKZCe93qVyuVwZhPvvzX0LAsCLhg_kgKaw7kZO20dpifPyDlmg_Jf9ZXRCJ6Sur08CSq3OUV9Q" as const)
       }
       storeHash={
         commerceProviderComponentProps &&
         "storeHash" in commerceProviderComponentProps
           ? commerceProviderComponentProps.storeHash!
-          : ("y9qp9pxpug" as const)
+          : ("5o7xzmxoo0" as const)
       }
     >
       {children}
