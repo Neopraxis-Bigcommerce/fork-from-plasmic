@@ -44,7 +44,7 @@
     {
       "projectId": "jTKbAFLJzNqzk5Sx157Ti8",
       "projectApiToken": "KFchRf4qByVG7ZtP3nWWpzgKZK7VvvZCpqNOSPIBZaDVLgmvEKMf6hv1ySIRQCQGlU0WFosCNU0pVojBLQ",
-      "projectName": "Nextbase Sandbox UK",
+      "projectName": "Copy of BigCommerce Example",
       "version": "latest",
       "cssFilePath": "plasmic/copy_of_big_commerce_example/plasmic_copy_of_big_commerce_example.module.css",
       "components": [
@@ -52,7 +52,7 @@
           "id": "dv9qw-MMxIGQ3",
           "name": "Homepage",
           "type": "managed",
-          "projectId": "vn4GCfRoYe35APzZGsNDnF",
+          "projectId": "jTKbAFLJzNqzk5Sx157Ti8",
           "renderModuleFilePath": "plasmic/copy_of_big_commerce_example/PlasmicHomepage.tsx",
           "importSpec": {
             "modulePath": "../pages/index.tsx"
@@ -65,7 +65,7 @@
           "id": "_gxfyOiD26jFy",
           "name": "Navbar",
           "type": "managed",
-          "projectId": "vn4GCfRoYe35APzZGsNDnF",
+          "projectId": "jTKbAFLJzNqzk5Sx157Ti8",
           "renderModuleFilePath": "plasmic/copy_of_big_commerce_example/PlasmicNavbar.tsx",
           "importSpec": {
             "modulePath": "Navbar.tsx"
@@ -78,7 +78,7 @@
           "id": "HEtuu_qCUDpai",
           "name": "NavItem",
           "type": "managed",
-          "projectId": "vn4GCfRoYe35APzZGsNDnF",
+          "projectId": "jTKbAFLJzNqzk5Sx157Ti8",
           "renderModuleFilePath": "plasmic/copy_of_big_commerce_example/PlasmicNavItem.tsx",
           "importSpec": {
             "modulePath": "NavItem.tsx"
@@ -91,7 +91,7 @@
           "id": "GCfRhgbsLCs4E",
           "name": "TextInput",
           "type": "managed",
-          "projectId": "vn4GCfRoYe35APzZGsNDnF",
+          "projectId": "jTKbAFLJzNqzk5Sx157Ti8",
           "renderModuleFilePath": "plasmic/copy_of_big_commerce_example/PlasmicTextInput.tsx",
           "importSpec": {
             "modulePath": "TextInput.tsx"
@@ -105,7 +105,7 @@
           "id": "nH5iseI9bs8m34",
           "name": "ProductCard",
           "type": "managed",
-          "projectId": "vn4GCfRoYe35APzZGsNDnF",
+          "projectId": "jTKbAFLJzNqzk5Sx157Ti8",
           "renderModuleFilePath": "plasmic/copy_of_big_commerce_example/PlasmicProductCard.tsx",
           "importSpec": {
             "modulePath": "ProductCard.tsx"
@@ -118,7 +118,7 @@
           "id": "iNyke70nGoPOKT",
           "name": "ProductGrid",
           "type": "managed",
-          "projectId": "vn4GCfRoYe35APzZGsNDnF",
+          "projectId": "jTKbAFLJzNqzk5Sx157Ti8",
           "renderModuleFilePath": "plasmic/copy_of_big_commerce_example/PlasmicProductGrid.tsx",
           "importSpec": {
             "modulePath": "ProductGrid.tsx"
@@ -131,7 +131,7 @@
           "id": "ebwNt8o70vdJfl",
           "name": "Hero",
           "type": "managed",
-          "projectId": "vn4GCfRoYe35APzZGsNDnF",
+          "projectId": "jTKbAFLJzNqzk5Sx157Ti8",
           "renderModuleFilePath": "plasmic/copy_of_big_commerce_example/PlasmicHero.tsx",
           "importSpec": {
             "modulePath": "Hero.tsx"
@@ -144,7 +144,7 @@
           "id": "Ut_4sWTqalBqM5",
           "name": "Footer",
           "type": "managed",
-          "projectId": "vn4GCfRoYe35APzZGsNDnF",
+          "projectId": "jTKbAFLJzNqzk5Sx157Ti8",
           "renderModuleFilePath": "plasmic/copy_of_big_commerce_example/PlasmicFooter.tsx",
           "importSpec": {
             "modulePath": "Footer.tsx"
@@ -157,7 +157,7 @@
           "id": "r8X98dJYm7GeAX",
           "name": "Product",
           "type": "managed",
-          "projectId": "vn4GCfRoYe35APzZGsNDnF",
+          "projectId": "jTKbAFLJzNqzk5Sx157Ti8",
           "renderModuleFilePath": "plasmic/copy_of_big_commerce_example/PlasmicProduct.tsx",
           "importSpec": {
             "modulePath": "../pages/product.tsx"
@@ -170,7 +170,7 @@
           "id": "STFktgEGldddDo",
           "name": "Swatch",
           "type": "managed",
-          "projectId": "vn4GCfRoYe35APzZGsNDnF",
+          "projectId": "jTKbAFLJzNqzk5Sx157Ti8",
           "renderModuleFilePath": "plasmic/copy_of_big_commerce_example/PlasmicSwatch.tsx",
           "importSpec": {
             "modulePath": "Swatch.tsx"
@@ -183,7 +183,7 @@
           "id": "3WSrLSDMSkvMlu",
           "name": "Button",
           "type": "managed",
-          "projectId": "vn4GCfRoYe35APzZGsNDnF",
+          "projectId": "jTKbAFLJzNqzk5Sx157Ti8",
           "renderModuleFilePath": "plasmic/copy_of_big_commerce_example/PlasmicButton.tsx",
           "importSpec": {
             "modulePath": "Button.tsx"
@@ -197,7 +197,7 @@
           "id": "WjKEpmN7XX2qVX",
           "name": "Cart",
           "type": "managed",
-          "projectId": "vn4GCfRoYe35APzZGsNDnF",
+          "projectId": "jTKbAFLJzNqzk5Sx157Ti8",
           "renderModuleFilePath": "plasmic/copy_of_big_commerce_example/PlasmicCart.tsx",
           "importSpec": {
             "modulePath": "Cart.tsx"
@@ -210,7 +210,7 @@
           "id": "RN8SoV_Y6fgMzV",
           "name": "Search",
           "type": "managed",
-          "projectId": "vn4GCfRoYe35APzZGsNDnF",
+          "projectId": "jTKbAFLJzNqzk5Sx157Ti8",
           "renderModuleFilePath": "plasmic/copy_of_big_commerce_example/PlasmicSearch.tsx",
           "importSpec": {
             "modulePath": "../pages/search.tsx"
@@ -223,7 +223,7 @@
           "id": "xkAYXInzzC2Et5",
           "name": "Loading",
           "type": "managed",
-          "projectId": "vn4GCfRoYe35APzZGsNDnF",
+          "projectId": "jTKbAFLJzNqzk5Sx157Ti8",
           "renderModuleFilePath": "plasmic/copy_of_big_commerce_example/PlasmicLoading.tsx",
           "importSpec": {
             "modulePath": "Loading.tsx"
@@ -236,7 +236,7 @@
           "id": "GaFy0B6nir_9z0",
           "name": "Collapse",
           "type": "managed",
-          "projectId": "vn4GCfRoYe35APzZGsNDnF",
+          "projectId": "jTKbAFLJzNqzk5Sx157Ti8",
           "renderModuleFilePath": "plasmic/copy_of_big_commerce_example/PlasmicCollapse.tsx",
           "importSpec": {
             "modulePath": "Collapse.tsx"
@@ -249,7 +249,7 @@
           "id": "N02-n_p-e8",
           "name": "NewPage",
           "type": "managed",
-          "projectId": "vn4GCfRoYe35APzZGsNDnF",
+          "projectId": "jTKbAFLJzNqzk5Sx157Ti8",
           "renderModuleFilePath": "plasmic/copy_of_big_commerce_example/PlasmicNewPage.tsx",
           "importSpec": {
             "modulePath": "../pages/new-page.tsx"
@@ -414,7 +414,7 @@
       {
         "id": "-7b4JcqpiMNuGn",
         "name": "Screen",
-        "projectId": "vn4GCfRoYe35APzZGsNDnF",
+        "projectId": "jTKbAFLJzNqzk5Sx157Ti8",
         "contextFilePath": "plasmic/copy_of_big_commerce_example/PlasmicGlobalVariant__Screen.tsx"
       }
     ]
