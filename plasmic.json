@@ -22,8 +22,8 @@
   "defaultPlasmicDir": "./plasmic",
   "projects": [
     {
-      "projectId": "95xp9cYcv7HrNWpFWWhbcv",
-      "projectApiToken": "X9RF4QUgEjfqAlBk6Nl7OhgXLqkhClEfwbGYrPzja9eIAqXGaTkltUmNaeX46ylhQdL0q5oCn6BzRE43wsMyg",
+      "projectId": "jTKbAFLJzNqzk5Sx157Ti8",
+      "projectApiToken": "KFchRf4qByVG7ZtP3nWWpzgKZK7VvvZCpqNOSPIBZaDVLgmvEKMf6hv1ySIRQCQGlU0WFosCNU0pVojBLQ",
       "projectName": "[PlasmicKit] Color Tokens",
       "version": "2.2.1",
       "cssFilePath": "plasmic/plasmic_kit_color_tokens/plasmic_plasmic_kit_color_tokens.module.css",
@@ -42,7 +42,7 @@
       "jsBundleThemes": []
     },
     {
-      "projectId": "rxvy03kvd82x8r2cmci1zquoelofcx",
+      "projectId": "jTKbAFLJzNqzk5Sx157Ti8",
       "projectApiToken": "KFchRf4qByVG7ZtP3nWWpzgKZK7VvvZCpqNOSPIBZaDVLgmvEKMf6hv1ySIRQCQGlU0WFosCNU0pVojBLQ",
       "projectName": "Nextbase Sandbox UK",
       "version": "latest",
