@@ -15,7 +15,7 @@ const PLASMIC_CONFIG = {
 
 export const PLASMIC = initPlasmicLoader({
   ...PLASMIC_CONFIG,
-  preview: false,
+  preview: true,
 });
 
 export const PREVIEW_PLASMIC = initPlasmicLoader({
