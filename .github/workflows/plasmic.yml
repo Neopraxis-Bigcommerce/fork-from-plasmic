@@ -40,8 +40,8 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.event.client_payload.data.branch }}
           directory: ${{ github.event.client_payload.data.directory }}
-          project_id: 'jTKbAFLJzNqzk5Sx157Ti8'
-          project_api_token: 'KFchRf4qByVG7ZtP3nWWpzgKZK7VvvZCpqNOSPIBZaDVLgmvEKMf6hv1ySIRQCQGlU0WFosCNU0pVojBLQ'
+          project_id: ${{ github.event.client_payload.data.projectId }}
+          project_api_token: ${{ github.event.client_payload.data.projectApiToken }}
           platform: ${{ github.event.client_payload.data.platform }}
           language: ${{ github.event.client_payload.data.language }}
           scheme: ${{ github.event.client_payload.data.scheme }}
@@ -56,8 +56,8 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.event.client_payload.data.branch }}
           directory: ${{ github.event.client_payload.data.directory }}
-          project_id: 'jTKbAFLJzNqzk5Sx157Ti8'
-          project_api_token: 'KFchRf4qByVG7ZtP3nWWpzgKZK7VvvZCpqNOSPIBZaDVLgmvEKMf6hv1ySIRQCQGlU0WFosCNU0pVojBLQ'
+          project_id: ${{ github.event.client_payload.data.projectId }}
+          project_api_token: ${{ github.event.client_payload.data.projectApiToken }}
           sync_action: ${{ github.event.client_payload.data.syncAction }}
           title: ${{ github.event.client_payload.data.title }}
           description: ${{ github.event.client_payload.data.description }}
