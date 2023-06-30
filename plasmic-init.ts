@@ -7,8 +7,8 @@ const PLASMIC_PROJECT_API_TOKEN =
 const PLASMIC_CONFIG = {
   projects: [
     {
-      id: PLASMIC_PROJECT_ID,
-      token: PLASMIC_PROJECT_API_TOKEN,
+      id: 'jTKbAFLJzNqzk5Sx157Ti8',
+      token: 'KFchRf4qByVG7ZtP3nWWpzgKZK7VvvZCpqNOSPIBZaDVLgmvEKMf6hv1ySIRQCQGlU0WFosCNU0pVojBLQ',
     },
   ],
 };
